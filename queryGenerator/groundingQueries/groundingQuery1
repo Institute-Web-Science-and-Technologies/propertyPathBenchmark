@@ -1,0 +1,1 @@
+SELECT ?s1 ?p1 ?o1 WHERE{?s1 ?p1 ?o1} LIMIT 1

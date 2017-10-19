@@ -1,0 +1,2 @@
+SELECT ?o1 WHERE{S1 P1|P2 ?o1}
+

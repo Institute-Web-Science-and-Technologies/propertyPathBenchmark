@@ -1,0 +1,2 @@
+SELECT ?o1 WHERE{ ?o1 ^P1 S1.}
+
